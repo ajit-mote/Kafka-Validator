@@ -35,6 +35,7 @@ Installation
 * Download or clone the repository. 
 * Run bin/insightlake command.
 * Open browser with URL as http://localhost:8080/
+* Default Username admin@example.com and password admin
 * Change configuration in /conf folder to set different ports
 * By default H2 database is used, you can change the database details in jdbc.properties file
 
